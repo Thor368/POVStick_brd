@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name POVStick-rescue)(type Legacy)(uri ${KIPRJMOD}/POVStick-rescue.lib)(options "")(descr ""))
+)
