@@ -13,3 +13,4 @@ The current relase V1.0 is currently in production. The board dimensions are 73x
 - sleep mode (LED throw-off)
 - 4 button inputs
 - I²C for small OLED displays
+- max. 18V input voltage
