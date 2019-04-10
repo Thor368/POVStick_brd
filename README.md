@@ -7,7 +7,9 @@ The image is stored on a SD card and read by an AVR. The display itself is a str
 Current state: https://youtu.be/oT6iY_f27Is
 
 # Board
-You will find a board with a m1284 AVR and some supporting stuff on it here.
-
-#WIP
-
+The current relase V1.0 is currently in production. The board dimensions are 73x19mm² and feautre:
+- ATmega1284 (8kB RAM) @12MHz
+- microSD slot
+- sleep mode (LED throw-off)
+- 4 button inputs
+- I²C for small OLED displays
